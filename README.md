@@ -20,5 +20,9 @@ Murilo Pina      RM: 563397
 Você pode acessar a simulação do projeto através do seguinte link:  
 [👉 Acesse aqui a simulação no Wokwi](https://wokwi.com/projects/432203265631815681)
 
+### Vídeo da simulação
+
+<video controls src="videoGSedge.mp4" title="Title"></video>
+
 
 
