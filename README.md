@@ -20,9 +20,18 @@ Murilo Pina      RM: 563397
 Você pode acessar a simulação do projeto através do seguinte link:  
 [👉 Acesse aqui a simulação no Wokwi](https://wokwi.com/projects/432203265631815681)
 
+### Descrição instrucional
+
+Basicamente o nosso projeto consiste em um sensor ultrassônico que mede a distância da água que está no bueiro até a tampa dele, no caso do rio, mede a distância da água do rio até o ponto  definido. Com base nos dados coletados, Ele exibe uma mensagem no LCD L2C, dizendo se está com risco de enchente, se o nível do bueiro/rio está médio ou se ele está seguro. Dependo das informações ele acendo o led verde, amarelo ou vermelho, juntamente a isso também pode vir o disparo da buzina ou um leve "BIP".
+
 ### Vídeo da simulação
 
 <video controls src="videoGSedge.mp4" title="Title"></video>
+
+### CIRCUITO
+
+![alt text](./circuito.png)
+
 
 
 
