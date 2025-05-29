@@ -26,8 +26,9 @@ Basicamente o nosso projeto consiste em um sensor ultrassônico que mede a dist�
 
 ### Vídeo da simulação
 
-([Assista ao vídeo aqui](https://www.youtube.com/watch?v=ID_DO_VIDEO)
-)
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/LH-CQEw5kNE/0.jpg)](https://www.youtube.com/watch?v=LH-CQEw5kNE)
+
+
 
 
 ### CÓDIGO DO PROJETO
